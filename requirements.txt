@@ -1,0 +1,9 @@
+category_encoders
+lazypredict
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+imblearn
+shap
