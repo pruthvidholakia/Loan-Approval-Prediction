@@ -9,3 +9,5 @@ imblearn
 shap
 tensorflow
 keras_tuner
+streamlit
+pickle
