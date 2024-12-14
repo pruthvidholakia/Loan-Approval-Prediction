@@ -10,4 +10,4 @@ shap
 tensorflow
 keras_tuner
 streamlit
-pickle
+pickle==1.21.5
